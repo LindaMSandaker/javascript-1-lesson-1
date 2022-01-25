@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-+// Global and Local Scope (Functional scope)
-=======
 // Global and Local Scope (Functional scope)
->>>>>>> Stashed changes
+
 var myName = "Linda"; // Global scope, can be used inside and outside the function
 
 function login(arg) {
@@ -123,8 +120,5 @@ console.log(pet.type);
 
 // in browser console:
 // var header = document.querySelector(".header")
-<<<<<<< Updated upstream
 // header = Will show the div with class header in HTML file
-=======
 // header = Will show the div with class header in HTML file
->>>>>>> Stashed changes
