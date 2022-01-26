@@ -113,7 +113,7 @@ const pet = {
     age: 3,
 };
 
-console.log(pet['type']);
+// console.log(pet['type']); = use when property is a string
 console.log(pet.type);
 
 // DOM = Document Object Model
